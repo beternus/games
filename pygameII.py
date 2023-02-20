@@ -17,6 +17,5 @@
  pygame.draw.circle(janela, (0,255,0),(400,300),50) //azul e vermelho, azul  n tem nada, vermelho no maximo
  pygame.quit() //fecha a janela
   //criou a janela e ela nao é fechada mais
-  //
   
     
